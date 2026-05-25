@@ -91,4 +91,12 @@ public class Materiales {
         this.prestado = prestado;
     }
 
+    public MentorArte getMentor() {
+        return this.mentor;
+    }
+ 
+    public void setMentor(MentorArte mentor) {
+        this.mentor = mentor;
+    }
+
 }

@@ -8,5 +8,5 @@ public class MaterialesRequestDTO {
     private String estado;
     private int cantidad;
     private Boolean prestado;
-    private int mentorId;
+    private Integer mentorId;
 }
